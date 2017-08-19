@@ -1,0 +1,2 @@
+# Simple-Editor
+Text Editor - Java version and Line Editor - C version. Text Editor uses tree, stack and array data structures whereas Line Editor uses linked list and array. Text Editor can perform: cut, copy, paste, undo, redo, open, save/save as, find and replace, auto prediction of words and file recovery. Line Editor can be used to save lines in a file, open saved file and edit the open file.
